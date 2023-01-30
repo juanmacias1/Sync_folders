@@ -2,7 +2,6 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Sync Folders - README</title>
 </head>
 <body>
   <h1>Sync Folders - README</h1>
